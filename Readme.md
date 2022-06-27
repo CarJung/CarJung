@@ -4,7 +4,7 @@ I'm Krzysztof and I'm a currently a student majoring in Psychology and Computer 
 defined artificial intelligence. I would like to make a career out of it.
 
 ## Contact
-![]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
 
 
 ## Skills and Tools:
