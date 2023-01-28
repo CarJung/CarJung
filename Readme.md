@@ -3,6 +3,8 @@
 I'm Krzysztof and I'm a currently a student majoring in Psychology and Computer Science, looking to gain new experience and put my knowledge in to practice. My main area of interest is broadly
 defined artificial intelligence. I would like to make a career out of it.
 
+Now I'm working as data analyst in ![Orange Polska](https://www.orange.pl).
+
 ## Contact
 <a href = "mailto:wrob.kw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/krzysztof-wr%C3%B3bel-a11188224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
